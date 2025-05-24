@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kenyai402
+- 👋 Hi, I’m Kenyai402
 - 👀 I’m interested in: Web development, and exploring different technologies like AI and blockchain.
 - 🌱 I’m currently learning: Javascript, web development, and focusing on expanding my skills in both frontend and backend.
 - 💞️ I’m looking to collaborate on: Javascript projects, web development projects, and any initiative involving problem-solving and creativity in tech. I’m especially interested in team-based projects and solo coding challenges, as I believe they will help me grow. I’m also keen to contribute to open-source projects.
